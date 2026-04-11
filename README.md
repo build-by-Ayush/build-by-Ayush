@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+👋 Hi, I'm Ayush<br>I am an aspiring Data Analyst based in Bengaluru who believes that data is useless unless it is interpretable. I focus on bridging the gap between complex data and real-world strategic decisions. As a person, I am highly competitive , I play to win and help my team level up.<br><br>🔭 I’m currently working on<br>Escalating my skills from raw data cleaning to High-Impact Visualization. I specialize in building robust relational models and Star Schemas that turn millions of rows of information into streamlined performance tracking systems.<br><br>👯 I’m looking to collaborate on<br>Projects involving Data-Driven Strategic Planning and Executive Dashboarding. I love working with teams that need a sharp eye to identify operational bottlenecks and high-value opportunities.<br><br>🤝 I’m looking for help with<br>Advancing my knowledge of Predictive Frameworks. I have the basics of Machine Learning down, but I’m looking to better integrate those insights into standard business analytics.<br><br>🌱 I’m currently learning<br>Advanced SQL Window Functions and CTE optimization to ensure my data queries are as lean and "badass" as possible.<br><br>💬 Ask me about<br>Anything SQL. I spend most of my time questioning data, joining tables, and finding the specific mathematical index that stops data from being miscounted.<br><br>⚡ Fun fact<br>I peak at the start and end of projects somewhere in the middle, I’m “thinking deeply.” 😄<br>
 
-<!--
-**build-by-Ayush/build-by-Ayush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-srivastava-26a5b525b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayush.srivastava20704@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=build-by-Ayush&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=build-by-Ayush&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=build-by-Ayush&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=build-by-Ayush&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
