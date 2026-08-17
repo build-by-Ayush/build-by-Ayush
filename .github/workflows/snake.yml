@@ -19,7 +19,7 @@ jobs:
           github_user_name: build-by-Ayush
           outputs: |
             dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=2DD4BF
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=F59E0B
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
