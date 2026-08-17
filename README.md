@@ -57,7 +57,7 @@ I combine engineering logic with data storytelling to turn messy datasets into c
 
 My focus is not just on producing reports or writing queries. I enjoy understanding **why a business problem exists**, finding the patterns hidden in the data, and building analytical solutions that make those problems easier to understand and act on.
 
-I work across the full analytical workflow — from data cleaning and SQL analysis to data modeling, interactive dashboards, and business-focused reporting.
+I work across the full analytical workflow   from data cleaning and SQL analysis to data modeling, interactive dashboards, and business-focused reporting.
 
 Currently, I am expanding from traditional BI into **cloud analytics with Google BigQuery and dbt**, while continuing to strengthen my SQL, Power BI, and analytical problem-solving skills.
 
