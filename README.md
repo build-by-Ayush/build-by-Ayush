@@ -174,26 +174,18 @@ The goal is to move beyond simple dashboarding and understand the complete path 
 
 ---
 
-<!-- ─── GITHUB STATS ─── -->
+<!-- ─── GITHUB ACTIVITY ─── -->
 
-### `> git stats`
+### `> git activity`
 
 <div align="center">
 
 <a href="https://github.com/build-by-Ayush">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=build-by-Ayush&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf&count_private=true&include_all_commits=true" />
+  <img
+    src="./profile/streak.svg"
+    alt="GitHub Contribution Statistics"
+  />
 </a>
-
-<a href="https://github.com/build-by-Ayush">
-  <img height="180em" src="https://streak-stats.demolab.com?user=build-by-Ayush&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" />
-</a>
-
-<br/>
-
-<a href="https://github.com/build-by-Ayush">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=build-by-Ayush&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=2dd4bf&text_color=c9d1d9&langs_count=8" />
-</a>
-
 </div>
 
 ---
@@ -208,26 +200,14 @@ The goal is to move beyond simple dashboarding and understand the complete path 
 
 ---
 
-<!-- ─── TROPHIES ─── -->
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=build-by-Ayush&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="90%" />
-
-</div>
-
----
-
 <!-- ─── SNAKE ANIMATION ─── -->
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/build-by-Ayush/build-by-Ayush/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/build-by-Ayush/build-by-Ayush/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/build-by-Ayush/build-by-Ayush/output/github-snake-dark.svg" />
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/build-by-Ayush/build-by-Ayush/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/build-by-Ayush/build-by-Ayush/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/build-by-Ayush/build-by-Ayush/output/github-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
