@@ -190,16 +190,6 @@ The goal is to move beyond simple dashboarding and understand the complete path 
 
 ---
 
-<!-- ─── ACTIVITY GRAPH ─── -->
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=build-by-Ayush&bg_color=0d1117&color=2dd4bf&line=2dd4bf&point=e6edf3&area=true&area_color=161b22&hide_border=true&custom_title=Contribution%20Graph" width="95%" />
-
-</div>
-
----
-
 <!-- ─── SNAKE ANIMATION ─── -->
 
 <div align="center">
