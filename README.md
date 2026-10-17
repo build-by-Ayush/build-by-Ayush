@@ -36,7 +36,7 @@
 name: Ayush Srivastava
 location: Bengaluru, India
 education: Computer Science & Engineering
-role: Aspiring Data Analyst
+role: Data Analyst
 focus:
   - Business Intelligence
   - Data Analysis
@@ -129,9 +129,9 @@ Currently, I am expanding from traditional BI into **cloud analytics with Google
 
 | 🚀 Project                                                        | 💡 Description                                                                                                                                   | 🛠 Stack                         |
 | :---------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------- |
-| **Intelligent Business Analytics & Funnel Optimization Platform** | End-to-end analytics solution focused on understanding funnel performance, identifying bottlenecks and supporting data-driven business decisions | `SQL` `Power BI` `Python`        |
-| **Quick-Commerce Operations Platform**                            | Cloud analytics project modeling order fulfilment and delivery operations, with a focus on SLA performance and operational visibility            | `BigQuery` `dbt` `SQL`           |
-| **BMTC Transit Gap Analysis**                                     | Analytics project examining public transit coverage and identifying service gaps to support better transport planning                            | `Python` `SQL` `Power BI`        |
+| **Quick-Commerce Operations Command Center**                      | Cloud analytics project analyzing delivery SLAs, fulfilment-stage bottlenecks, operational factors, and store-level performance                  | `BigQuery` `dbt` `SQL` `Power BI` |
+| **Intelligent Business Analytics & Funnel Optimization Platform** | End-to-end analytics solution focused on understanding funnel performance, identifying bottlenecks and supporting data-driven business decisions | `SQL` `Power BI` `Python`         |
+| **BMTC Transit Gap Analysis**                                     | Analytics project examining public transit coverage and identifying service gaps to support better transport planning                            | `Python` `SQL` `Power BI`         |
 | **Explainable AI Anomaly Detection**                              | Analytical project focused on detecting unusual patterns while keeping model outputs understandable and actionable                               | `Python` `Pandas` `scikit-learn` |
 | **T20 Cricket Analytics**                                         | Data-driven cricket analysis exploring player, team and match performance through statistical insights and visualization                         | `Python` `Pandas` `Power BI`     |
 
@@ -141,26 +141,20 @@ Currently, I am expanding from traditional BI into **cloud analytics with Google
 
 ---
 
-<!-- ─── CURRENTLY BUILDING ─── -->
+<!-- ─── CURRENTLY WORKING ON ─── -->
 
-### `> currently --building`
+### `> currently --working-on`
 
-**Quick-Commerce Operations Analytics Platform**
+**Data Analyst Intern — Avacasa**
 
-A cloud-based analytics project designed around a 10-minute delivery business model.
+I am currently working on a location deep-dive study of the Bengaluru South-West market for a proptech startup.
 
-The project focuses on:
+My current focus:
 
-* operational event tracking
-* order fulfilment
-* delivery SLA analysis
-* relational database design
-* analytical data modeling
-* BigQuery
-* dbt
-* business-facing operational insights
+* collecting property-market data from multiple sources
+* preparing and organizing source data for analysis
 
-The goal is to move beyond simple dashboarding and understand the complete path from **raw operational data → analytical models → business decisions**.
+The current stage is focused on data collection and preparation for the later stages of the study.
 
 ---
 
@@ -169,8 +163,8 @@ The goal is to move beyond simple dashboarding and understand the complete path 
 ### `> cat certifications.txt`
 
 * 🏅 **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** — Microsoft · 2026
+* 🏅 **dbt Fundamentals** — dbt Labs · 2026
 * 🏅 **The Complete SQL Bootcamp** — Udemy · 2025
-* 🏅 **NoSQL Course Training – MongoDB Developer** — Infosys Springboard · 2024
 
 ---
 
@@ -215,10 +209,6 @@ I am interested in opportunities involving **Data Analytics, Business Intelligen
 [![Email](https://img.shields.io/badge/Email-161b22?style=for-the-badge\&logo=gmail\&logoColor=2DD4BF)](mailto:ayush.srivastava20704@gmail.com)
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=build-by-Ayush\&color=161b22\&style=for-the-badge\&label=PROFILE+VIEWS)
-
-</div>
 
 <!-- FOOTER WAVE -->
 
